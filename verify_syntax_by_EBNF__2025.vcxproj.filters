@@ -20,12 +20,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\base_test_programs_2025\file1.k03" />
-    <None Include="..\base_test_programs_2025\file2.k03" />
-    <None Include="..\base_test_programs_2025\file3.k03" />
-    <None Include="..\other_test_programs_2025\file4.k03" />
-    <None Include="..\other_test_programs_2025\file5.k03" />
-    <None Include="..\other_test_programs_2025\file6.k03" />
-    <None Include="..\file1.k03" />
+    <None Include="file1.k03">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="file2.k03">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="file3.k03">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
   </ItemGroup>
 </Project>

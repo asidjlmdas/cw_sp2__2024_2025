@@ -1,18 +1,18 @@
-NAMS _PROGRAM ; 
-BODY DATA INTEGER16 _AAAAAAA , _BBBBBBB , _XXXXXXX , _YYYYYYY ;
-  GET ( _AAAAAAA )
-  GET ( _BBBBBBB )
-  
-  PUT ( _AAAAAAA + _BBBBBBB )
-  PUT ( _AAAAAAA - _BBBBBBB )
-  PUT ( _AAAAAAA * _BBBBBBB )
-  PUT ( _AAAAAAA DIV _BBBBBBB )
-  PUT ( _AAAAAAA MOD _BBBBBBB )
+PROGRAM _prPR;
+BEGIN VAR LONGINT _aaAA, _bbBB, _xxXX, _yyYY;
+  SCAN(_aaAA);
+  SCAN(_bbBB);
 
-  _XXXXXXX := (_AAAAAAA - _BBBBBBB) * 10 + (_AAAAAAA + _BBBBBBB) DIV 10
-  _YYYYYYY := _XXXXXXX + _XXXXXXX MOD 10
+  PRINT(_aaAA + _bbBB);
+  PRINT(_aaAA SUB _bbBB);
+  PRINT(_aaAA MUL _bbBB);
+  PRINT(_aaAA DIV _bbBB);
+  PRINT(_aaAA % _bbBB);
 
-  PUT ( _XXXXXXX )
-  PUT ( _YYYYYYY )
+   ( _aaAA SUB _bbBB) MUL 10 + ( _aaAA + _bbBB) DIV 10 =: _xxXX;
+  _xxXX + _xxXX % 10 =: _yyYY;
+
+  PRINT(_xxXX);
+  PRINT(_yyYY);
 
 END
