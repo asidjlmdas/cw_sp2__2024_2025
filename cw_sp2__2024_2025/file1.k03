@@ -1,0 +1,18 @@
+PROGRAM _prPR;
+BEGIN VAR LONGINT _aaAA, _bbBB, _xxXX, _yyYY;
+  SCAN(_aaAA);
+  SCAN(_bbBB);
+
+  PRINT(_aaAA + _bbBB);
+  PRINT(_aaAA SUB _bbBB);
+  PRINT(_aaAA MUL _bbBB);
+  PRINT(_aaAA DIV _bbBB);
+  PRINT(_aaAA % _bbBB);
+
+   ( _aaAA SUB _bbBB) MUL 10 + ( _aaAA + _bbBB) DIV 10 =: _xxXX;
+  _xxXX + _xxXX % 10 =: _yyYY;
+
+  PRINT(_xxXX);
+  PRINT(_yyYY);
+
+END

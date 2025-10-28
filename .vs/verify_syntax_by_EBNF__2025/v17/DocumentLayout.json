@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file2.k03||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:file2.k03||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file3.k03||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:file3.k03||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file1.k03||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:file1.k03||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file3.k03",
+              "DocumentMoniker": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file3.k03",
+              "RelativeDocumentMoniker": "file3.k03",
+              "ToolTip": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file3.k03",
+              "RelativeToolTip": "file3.k03",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T18:40:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file2.k03",
+              "DocumentMoniker": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file2.k03",
+              "RelativeDocumentMoniker": "file2.k03",
+              "ToolTip": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file2.k03",
+              "RelativeToolTip": "file2.k03",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T18:38:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file1.k03",
+              "DocumentMoniker": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file1.k03",
+              "RelativeDocumentMoniker": "file1.k03",
+              "ToolTip": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\file1.k03",
+              "RelativeToolTip": "file1.k03",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T18:26:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "one_file__x86_Debug.cpp",
+              "DocumentMoniker": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\one_file__x86_Debug.cpp",
+              "RelativeDocumentMoniker": "one_file__x86_Debug.cpp",
+              "ToolTip": "C:\\Users\\sad2d\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Kozak\\one_file__x86_Debug.cpp",
+              "RelativeToolTip": "one_file__x86_Debug.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T13:25:28.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

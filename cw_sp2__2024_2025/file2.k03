@@ -1,0 +1,34 @@
+PROGRAM _prPR;
+BEGIN VAR LONGINT _aaAA, _bbBB, _ccCC , _maXM ;
+ SCAN ( _aaAA );
+ SCAN ( _bbBB );
+ SCAN ( _ccCC );
+
+  IF _aaAA > _bbBB AND _aaAA > _ccCC {
+    _aaAA =: _maXM;
+  } ELSE IF _bbBB > _aaAA AND _bbBB > _ccCC {
+    _bbBB =: _maXM;
+  } ELSE {
+    _ccCC =: _maXM;
+  }
+  PRINT ( _maXM );
+
+  IF ( _aaAA EQ _bbBB ) AND ( _aaAA EQ _ccCC ) AND ( _bbBB EQ _ccCC ) {
+    PRINT ( 1 );
+  } ELSE {
+    PRINT ( 0 );
+  }
+    
+  IF ( _aaAA < 0 ) OR ( _bbBB < 0 ) OR ( _ccCC < 0 ) {
+    PRINT ( -1 );
+  } ELSE {
+    PRINT ( 0 );
+  }
+
+  IF NOT ( _aaAA < ( _bbBB + _ccCC ) ) {
+    PRINT ( 10 );
+  } ELSE {
+    PRINT ( 0 );
+  }
+ 
+END
