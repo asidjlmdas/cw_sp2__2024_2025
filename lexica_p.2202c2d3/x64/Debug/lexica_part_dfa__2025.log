@@ -1,6 +1,0 @@
-﻿  lexica_part_dfa_one.cpp
-C:\Users\sad2d\OneDrive\Робочий стіл\Kozak\lexica_part_dfa_one.cpp(291,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\sad2d\OneDrive\Робочий стіл\Kozak\lexica_part_dfa_one.cpp(292,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\sad2d\OneDrive\Робочий стіл\Kozak\lexica_part_dfa_one.cpp(293,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\sad2d\OneDrive\Робочий стіл\Kozak\lexica_part_dfa_one.cpp(351,38): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
-  lexica_part_dfa__2025.vcxproj -> C:\Users\sad2d\OneDrive\Робочий стіл\Kozak\x64\Debug\lexica_part_dfa__2025.exe
