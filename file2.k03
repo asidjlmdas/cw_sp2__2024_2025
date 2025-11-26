@@ -1,5 +1,6 @@
 PROGRAM _prPR;
-BEGIN VAR LONGINT _aaAA, _bbBB, _ccCC , _maXM ;
+VAR LONG INT _aaAA, _bbBB, _ccCC , _maXM ;
+BEGIN
  SCAN ( _aaAA );
  SCAN ( _bbBB );
  SCAN ( _ccCC );
