@@ -1,5 +1,6 @@
 PROGRAM _prPR;
-BEGIN VAR LONGINT _aaAA, _bbBB, _ccLA, _ccLB, _xvAL;
+VAR LONG INT _aaAA, _bbBB, _ccLA, _ccLB, _xvAL;
+BEGIN
   SCAN(_aaAA);
   SCAN(_bbBB);
 
