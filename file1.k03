@@ -1,5 +1,6 @@
 PROGRAM _prPR;
-BEGIN VAR LONGINT _aaAA, _bbBB, _xxXX, _yyYY;
+VAR LONG INT _aaAA, _bbBB, _xxXX, _yyYY;
+BEGIN
   SCAN(_aaAA);
   SCAN(_bbBB);
 
